@@ -171,7 +171,7 @@ Kits:
 ## GMK Pulse
 
 Price: ￥950 (Second-Hand)  
-Buy Channel: Xianyu
+Buy Channel: Xianyu  
 kits:  
 * Mitolet  
 ![](Material/picture/GMK%20Pulse%20Mitolet%20kit.png)
