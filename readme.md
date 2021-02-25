@@ -156,6 +156,23 @@ Arrival Time: 2021 Q4
 Sample:  
 ![](Material/picture/EVA-01%20Switch.jpg)
 
+## Jw Water King Swtich
+
+Price: ￥217  
+Count: 70  
+Buy Channel: Taobao  
+Arrival Time: 2021.3  
+Sample:  
+![](Material/picture/Jw%20Water%20King%20Switch.jpg)
+
+## Matrix [Lab] CP .8XV2.0
+
+Price: ￥1599+￥1899  
+Count: White + White  
+Buy Channel: Matrix (Semi Group Buy)  
+Sample:  
+![](Material/picture/Matrix%20Pad.png)
+
 # possession
 
 ## GMK Laser 
